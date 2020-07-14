@@ -10,6 +10,6 @@ Array, Evaluator, and Variable class provided.
 Application to build a tree structure called Trie for a dictionary of English words, and use the Trie to generate completion lists for prefix searches.
 TrieApp and TrieNode classes had been provided.
 4. Friends:
-Implement differnet algorithms for graphs that represent friendships (e.g. Facebook). A friendship graph is an undirected graph without any weights on the edges. The graph allows to look for the shortest chain between friendships, any 'cliques' or group of friends, the friends considered 'connectors' so other people's friendship's depend on them.
+Implement different algorithms for graphs that represent friendships (e.g. Facebook). A friendship graph is an undirected graph without any weights on the edges. The graph allows to look for the shortest chain between friendships, any 'cliques' or group of friends, the friends considered 'connectors' so other people's friendship's depend on them.
 Edge, Friend, Person, and Graph class provided.
 
